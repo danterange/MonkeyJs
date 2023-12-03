@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Userscript1111
 // @namespace    test222
-// @version      0.1
+// @version      0.2
 // @description  油猴脚本测试
 // @author       dante
 // @match        https://greasyfork.org/zh-CN/script_versions/new
@@ -12,7 +12,7 @@
 
 (function() {
     'use strict';
-    console.log("Hello World")
+    console.log("Hello 2 World")
     // Your code here...
 })();
 
